@@ -1,5 +1,5 @@
 {
-  "name": "todo_server",
+  "name": "my_server",
   "version": "1.0.0",
   "description": "Todo App Server",
   "main": "server.js",
